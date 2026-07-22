@@ -1,25 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awake Spirit | Connect with Sanjay</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <div class="container">
-        <h1>AWAKE SPIRIT</h1>
-        <p class="subtitle">Tap to connect</p>
-        
-        <div class="links">
-            <a href="https://www.youtube.com/@AwakeSpirit-Sanjay" target="_blank" class="link-btn youtube">YouTube</a>
-            <a href="#" class="link-btn tiktok">TikTok</a>
-            <a href="#" class="link-btn facebook">Facebook</a>
-            <a href="#" class="link-btn instagram">Instagram</a>
-        </div>
-    </div>
-</body>
 * {
     margin: 0;
     padding: 0;
